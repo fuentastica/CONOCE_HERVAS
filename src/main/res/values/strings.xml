@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CONOCE_HERVÁS</string>
+    <string name="info">INFORMACIÓN</string>
+    <string name="interes">PUNTOS DE INTERÉS</string>
+    <string name="alojamiento">ALOJAMIENTO</string>
+    <string name="rest">RESTAURACIÓN</string>
+    <string name="rutas">RUTAS</string>
+    <string name="llegar">CÓMO LLEGAR</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="cabecera">
+
+        <h1><b>Bienvenido</b></h1>
+
+        Hervás es un municipio español de la provincia de Cáceres, en Extremadura, cuya capital es la villa homónima.
+        Con 4102 habitantes en 2017, es el centro administrativo y comercial de la mancomunidad del Valle del Ambroz y
+        el municipio más poblado de dicha comarca natural. Disfruta de clima continental suave,
+        con veranos cálidos e inviernos fríos.
+
+
+
+    </string>
+
+
+</resources>
